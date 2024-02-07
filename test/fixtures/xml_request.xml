@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+  <status>success</status>
+  <country>Russia</country>
+  <countryCode>RU</countryCode>
+  <region>OMS</region>
+  <regionName>Omsk Oblast</regionName>
+  <city>Omsk</city>
+  <zip>644000</zip>
+  <lat>54.9978</lat>
+  <lon>73.4001</lon>
+  <timezone>Asia/Omsk</timezone>
+  <isp>Omskie kabelnye seti Ltd.</isp>
+  <org>Omskie kabelnye seti Ltd.</org>
+  <as>AS47165 Omskie kabelnye seti Ltd.</as>
+  <query>185.13.177.9</query>
+</query>
